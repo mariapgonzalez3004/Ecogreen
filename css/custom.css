@@ -1,0 +1,204 @@
+/*!---------- PLACE YOUR CUSTOM STYLES AND OVERRIDES HERE ----------*/
+/* Footer 18 */
+
+.footer18 {
+  color:white;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background: rgb(0,0,0);
+  text-align: center;
+}
+
+.footer18 .container {
+  max-width: 970px;
+}
+
+.footer18 .flex {
+  margin-top: 87px;
+  margin-bottom: 70px;
+}
+
+.footer18 .col {
+  width: 170px;
+}
+
+.footer18 .col .title {
+  color: #fff;
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 30px;
+}
+
+.footer18 .col a,.footer18 .col a:focus {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 36px;
+  color: #fff;
+  display: block;
+}
+
+.footer18 .col a:hover {
+  color: #fff;
+}
+
+.footer18 .copy_text {
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 24px;
+  color: #fff;
+  opacity: 0.5;
+}
+
+.footer18 .copy {
+  font-size: 22px;
+  line-height: 24px;
+  color: #fff;
+  margin-top: 30px;
+}
+
+
+.footer18 .copy_text {
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 24px;
+  color: #fff;
+  opacity: 0.5;
+}
+
+/* Section 3 (9) */
+
+.sec3_9 {
+  padding-top: 100px;
+  padding-bottom: 120px;
+  background: #fff;
+  text-align: center;
+}
+
+.sec3_9 .flex {
+  margin-top: 57px;
+}
+
+.sec3_9 .sec5_6_block {
+  width: 270px;
+  margin-bottom: 46px;
+}
+
+.sec3_9 .sec5_6_block .title {
+  margin-top: 20px;
+}
+
+.sec3_9 .sec4_5_btn {
+  margin-top: 10px;
+}
+
+/* Section 6 (18) */
+
+.sec6_18 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.sec6_18 .flex {
+  margin-top: 30px;
+}
+
+.sec6_18 .sec5_6_block {
+  margin-bottom: 56px;
+}
+
+.sec6_18 .sec5_6_block  .title {
+  margin-top: 26px;
+}
+
+.sec6_18 .sec5_6_block .job {
+  margin-top: 15px;
+  font-size: 12px;
+  line-height: 22px;
+  color: #8c8f94;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Navigation 18 */
+
+.nav18{
+	background:rgb(43, 78, 114);
+	padding:32px 0;
+}
+
+.nav18 .nav5_logo{
+	float:left;
+	font-size:30px;
+	line-height:36px;
+	margin-right:10px;
+}
+
+.nav18 .left{
+	float:left;
+}
+
+.nav18 .left a, .nav18 .left a:focus{
+	font-weight:300;
+	line-height:40px;
+	font-size:16px;
+	color:#000000;
+	display:inline-block;
+	margin-left:28px;
+}
+
+.nav18 .right{
+	float:right;
+}
+
+.nav18 .right .sec3_5_btn, .nav18 .right .sec4_5_btn{
+	margin-top:0px;
+	font-size:11px;
+}
+
+.nav18 .right .sec3_5_btn{
+	letter-spacing:1px;
+	margin-left:20px;
+}
+
+/* Mobile Menu Close*/
+.mobile_menu_close, .desktop_menu_close{
+	position:absolute;
+	top:40px;
+	left:48px;
+	display:none;
+	width:40px;
+	height:40px;
+	background:white;
+	color: black;
+}
+
+.mobile_menu_close.black, .desktop_menu_close.black{
+	background-color:transparent;
+	color: white;
+}
+
+.mobile_menu.right, .mobile_menu_close.right, .desktop_menu_close.right{
+	left:auto;
+	right:48px;
+}
+
+/*Nav 5 logo*/
+.nav5 a.nav5_logo{
+	font-weight:400;
+	font-size:18px;
+	letter-spacing:0.5px;
+}
+
+.nav5 .mobile_menu_close{
+.footer5 .left .nav5_logo{
+	font-size:18px;
+	letter-spacing:1px;
+}
+
+
+
+/* Maitre */
+#maitre-powered-by{
+    display : none;
+}
