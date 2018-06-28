@@ -161,7 +161,7 @@ body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
-  color: #888888;
+  color: #666;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -196,7 +196,7 @@ h3 {
 h4 {
   font-size: 36px;
   line-height: 44px;
-  font-weight: 300;
+  font-weight: 500px;
 }
 h5 {
   font-size: 22px;
@@ -302,6 +302,7 @@ p.text-white a {
   height: 55px;
   line-height: 53px;
   font-size: 18px;
+  font-weight: bold;
   border-radius: 100px;
   padding: 0 36px;
   border: 1px solid #ccc;
@@ -332,7 +333,7 @@ p.text-white a {
   height: 85px;
   line-height: 76px;
   font-size: 24px;
-  font-weight: 300;
+  font-weight: bold;
   min-width: 267px;
   border: 2px solid;
 }
@@ -368,7 +369,7 @@ p.text-white a {
     line-height: 58px;
     min-width: 0px;
     font-size: 18px;
-    font-weight: normal;
+    font-weight: bold;
   }
 }
 /*!---------- COLOURS ----------*/
